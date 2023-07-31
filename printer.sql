@@ -18,7 +18,7 @@ CREATE TABLE `user` (
 # Data for table "user"
 #
 
-INSERT INTO `user` VALUES (1,'password');
+INSERT INTO `user` VALUES (1,'print_password');
 
 #
 # Structure for table "user_info"
@@ -34,4 +34,4 @@ CREATE TABLE `user_info` (
 # Data for table "user_info"
 #
 
-INSERT INTO `user_info` VALUES (1,'account');
+INSERT INTO `user_info` VALUES (1,'print_account');
