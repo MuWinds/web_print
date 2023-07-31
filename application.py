@@ -6,7 +6,6 @@ class Application(tornado.web.Application):
     def __init__(self):
         handlers=[
             (r'/',index.MainHandler),
-            (r'/user-register',index.UserRegisterHanlder),
             (r'/user-login',index.UserLoginHandler),
             (r'/user-uploadfile',index.UserUploadFileHandler),
         ]
