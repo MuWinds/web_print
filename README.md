@@ -9,4 +9,4 @@ Anaconda环境下一般只要安装pymysql即可
 在printer.sql下直接替换'print_account'和'print_password'  
 在application.py下修改数据库连接
 最后在windows下设置好默认打印机，在windows下启动server.py即可  
-**请注意！！能打印什么格式取决于你启动文件的机器能打开什么文件！！
+**请注意！！能打印什么格式取决于你启动文件的机器能打开什么文件！！**
