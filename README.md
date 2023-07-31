@@ -9,4 +9,4 @@ Anaconda环境下一般只要安装pymysql即可，mysql上两个表，一个是
 user下两个字段，一个id一个password  
 userinfo下两个字段，一个account，一个email  
 email字段和password字段的数据都要相互对应，id和account相等即可。  
-最后启动server.py即可
+最后在windows下设置好默认打印机，启动server.py即可  
